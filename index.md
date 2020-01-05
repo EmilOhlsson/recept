@@ -7,7 +7,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Efterrätter och sötsaker
 
-## Såser
+## Middagar
  * [Broccolibiffar](dinners/broccoli-biffar.md)
  * [Blomkålsris](dinners/califlower.md)
  * [Kokosmjölkgryta med kikärtor](dinners/coco-chickpeas.md)
@@ -30,7 +30,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Picklat
  * [chiligurka](pickled/chili-cucumber.md)
 
-## Middagar
+## Såser
  * [Toum](sauces/toum.md)
 
 ## Obeprövat
