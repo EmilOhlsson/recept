@@ -7,7 +7,8 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Efterrätter och sötsaker
 
-## Middagar
+## Såser
+ * [Broccolibiffar](dinners/broccoli-biffar.md)
  * [Blomkålsris](dinners/califlower.md)
  * [Kokosmjölkgryta med kikärtor](dinners/coco-chickpeas.md)
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
@@ -15,6 +16,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)
 
 ## Fermentering
+ * [Kimchi](fermentation/kimchi.md)
  * [Pink Acid](fermentation/pink-acid.md)
 
 ## Friluftsmat
@@ -27,6 +29,9 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Picklat
  * [chiligurka](pickled/chili-cucumber.md)
+
+## Middagar
+ * [Toum](sauces/toum.md)
 
 ## Obeprövat
  * [majonnäs](untried/mayo.md)
