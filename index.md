@@ -8,6 +8,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Efterrätter och sötsaker
 
 ## Middagar
+ * [Bönchili (12port)](dinners/beanchili.md)
  * [Broccolibiffar](dinners/broccoli-biffar.md)
  * [Blomkålsris](dinners/califlower.md)
  * [Kokosmjölkgryta med kikärtor](dinners/coco-chickpeas.md)
