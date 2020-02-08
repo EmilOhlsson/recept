@@ -11,6 +11,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Bönchili (12port)](dinners/beanchili.md)
  * [Broccolibiffar](dinners/broccoli-biffar.md)
  * [Blomkålsris](dinners/califlower.md)
+ * [Västafrikansk kikärtsgryta](dinners/chickpeastew.md)
  * [Kokosmjölkgryta med kikärtor](dinners/coco-chickpeas.md)
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
