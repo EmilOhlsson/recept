@@ -4,6 +4,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Burgarbröd](bread/burger-bread.md)
  * [Lingongrova](bread/lingonberry.md)
  * [Pizzadeg](bread/pizza-bottom.md)
+ * [Bröd i järngryta](bread/pot-bread.md)
 
 ## Efterrätter och sötsaker
 
