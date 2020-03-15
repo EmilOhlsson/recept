@@ -5,6 +5,7 @@ Trevligt kimchi-recept som jag fick av Patrik
  * 1.5 kg salladskål, skuren i ca 4 cm stora bitar
  * 3 msk salt (grovsalt, helst jodfritt)
 
+ * 1.5 dl vatten
  * 2 msk potatismjöl
  * 1 msk socker
 
