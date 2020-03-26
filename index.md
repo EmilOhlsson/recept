@@ -17,6 +17,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kefta tagine](dinners/kefta-tagine.md)
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
+ * [Pastagratäng](dinners/pasta-gratin.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)
 
