@@ -11,6 +11,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Middagar
  * [Bönchili (12port)](dinners/beanchili.md)
  * [Broccolibiffar](dinners/broccoli-biffar.md)
+ * [Buffalo wings](dinners/buffalo-wings.md)
  * [Blomkålsris](dinners/califlower.md)
  * [Västafrikansk kikärtsgryta](dinners/chickpeastew.md)
  * [Kokosmjölkgryta med kikärtor](dinners/coco-chickpeas.md)
@@ -37,6 +38,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [chiligurka](pickled/chili-cucumber.md)
 
 ## Såser
+ * [Ädelost-dipp](sauces/blue-cheese-dip.md)
  * [Toum](sauces/toum.md)
 
 ## Obeprövat
