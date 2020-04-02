@@ -14,6 +14,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Buffalo wings](dinners/buffalo-wings.md)
  * [Blomkålsris](dinners/califlower.md)
  * [Västafrikansk kikärtsgryta](dinners/chickpeastew.md)
+ * [Chimichangas](dinners/chimichangas.md)
  * [Kokosmjölkgryta med kikärtor](dinners/coco-chickpeas.md)
  * [Kefta tagine](dinners/kefta-tagine.md)
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
