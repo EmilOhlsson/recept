@@ -4,7 +4,7 @@
 * 1 gul lök
 * 2 vitlöksklyftor
 * 3/4dl russin
-*1 burk körsbärstomater(400g)
+* 1 burk körsbärstomater(400g)
 * 2dl vatten
 * 1dl svarta oliver utan kärnor
 * 2 msk rödvinsvinäger
@@ -17,7 +17,7 @@ Topping
 * 150g fetaost
 
 Garnering
-*Basilika
+* Basilika
 
 Tillbehör
 * Bröd
