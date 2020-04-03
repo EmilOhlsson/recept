@@ -13,6 +13,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Broccolibiffar](dinners/broccoli-biffar.md)
  * [Buffalo wings](dinners/buffalo-wings.md)
  * [Blomkålsris](dinners/califlower.md)
+ * [Caponata med kikärtstopping(4port)](dinners/caponata.md)
  * [Ceviche-tortilla (~4p)](dinners/ceviche-tortilla.md)
  * [Västafrikansk kikärtsgryta](dinners/chickpeastew.md)
  * [Chimichangas](dinners/chimichangas.md)
