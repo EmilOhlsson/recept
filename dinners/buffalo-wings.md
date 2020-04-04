@@ -1,4 +1,5 @@
-# Buffalo wings
+# Buffalo wings (~4p)
+Trodde det skulle bli starkare i smaken, men även med en dl sriracha, men det hade inte varit några som helst problem att byta mot en starkare sås
 ```
 1 kg kycklingvingar
 1 msk bakpulver
@@ -8,11 +9,13 @@ Glaze
 ```
 50 g smör
 1½ msk farinsocker
-1 dl siracha
+1 dl sriracha
 ```
 ## Gör så här (Glaze)
 * Smält smöret
-* blanda i socker och siracha
+* blanda i socker och sriracha
+
+Komplettera gärna srirachan med starkare chilli, eller använd chillsås istället. 
 
 ## Gör så här (Vingar)
 * sätt ugnen på 150 grader
@@ -25,4 +28,5 @@ Glaze
 * Tillaga i ugnen i ca 30 minuter
 * Vänd vingarna, och höj värmen till 225 grader
 * Baka vingarna i ytterligare ca 40 minuter, tills skinnet är puffigt och krispigt
-* Ta ut vingarna, pensla på glaze och servera med ädelostdipp
+* Ta ut vingarna, pensla på eller vänd ner, glazen.
+* servera med ädelostdipp
