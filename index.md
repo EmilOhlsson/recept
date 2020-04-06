@@ -9,6 +9,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Efterrätter och sötsaker
 
 ## Middagar
+ * [Arrabiata (4p)](dinners/arrabiata.md)
  * [Bönchili (12port)](dinners/beanchili.md)
  * [Broccolibiffar](dinners/broccoli-biffar.md)
  * [Buffalo wings](dinners/buffalo-wings.md)
