@@ -12,7 +12,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Arrabiata (4p)](dinners/arrabiata.md)
  * [Bönchili (12port)](dinners/beanchili.md)
  * [Broccolibiffar](dinners/broccoli-biffar.md)
- * [Buffalo wings](dinners/buffalo-wings.md)
+ * [Buffalo wings (~4p)](dinners/buffalo-wings.md)
  * [Blomkålsris](dinners/califlower.md)
  * [Caponata med kikärtstopping(4port)](dinners/caponata.md)
  * [Ceviche-tortilla (~4p)](dinners/ceviche-tortilla.md)
@@ -23,6 +23,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Pastagratäng](dinners/pasta-gratin.md)
+ * [Pizza](dinners/pizza.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)
 
