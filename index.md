@@ -20,6 +20,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Chimichangas](dinners/chimichangas.md)
  * [Kokosmjölkgryta med kikärtor](dinners/coco-chickpeas.md)
  * [Kefta tagine](dinners/kefta-tagine.md)
+ * [Koreansk taco](dinners/korean-taco.md)
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Pastagratäng](dinners/pasta-gratin.md)
@@ -38,6 +39,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Pastarätter
  * [Halloumi carbonara (4p)](pasta/halloumi-carbonara.md)
+ * [Pastadeg (1p)](pasta/pasta-dough.md)
 
 ## Picklat
  * [chiligurka](pickled/chili-cucumber.md)
