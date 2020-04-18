@@ -5,6 +5,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Lingongrova](bread/lingonberry.md)
  * [Pizzadeg](bread/pizza-bottom.md)
  * [Bröd i järngryta](bread/pot-bread.md)
+ * [Rågbröd](bread/rye-bread.md)
 
 ## Efterrätter och sötsaker
 
@@ -46,8 +47,9 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Såser
  * [Ädelost-dipp](sauces/blue-cheese-dip.md)
+ * [majonnäs](sauces/mayo.md)
+ * [Senap](sauces/mustard.md)
  * [Toum](sauces/toum.md)
 
 ## Obeprövat
- * [majonnäs](untried/mayo.md)
 
