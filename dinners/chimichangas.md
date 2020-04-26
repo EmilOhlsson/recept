@@ -25,16 +25,20 @@ Tillagning sker i två steg. Ev. tre om du kokar salsan själv
 * Fräs en stund
 * Mosa till en bönmos
 
+### Stek svamp
+
 ### Gör såhär (Kyckling-guck)
 * Strimla kycklingfiléerna
 * Stek kyckling till den får färg
 * Häll över tomatsalsa och låt puttra ett par minuter
+
 
 ### Bygg ihop
 * Sätt ugnen på 225 grader
 * Lägg bakplåtspapper på en ugnsplåt
 * Bre bönröra i mitten på tortilla-bröd
 * Lägg på kyckling-guck
+* Lägg på stekt svamp
 * Toppa med ost
 * Vik ihop till ett kuvert, lägg med skarven neråt på ugnsplåten
 * Pensla med olja
