@@ -12,6 +12,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Middagar
  * [Arrabiata (4p)](dinners/arrabiata.md)
  * [Bönchili (12port)](dinners/beanchili.md)
+ * [Panerad rödspätta](dinners/breaded-plaice.md)
  * [Broccolibiffar](dinners/broccoli-biffar.md)
  * [Buffalo wings (~4p)](dinners/buffalo-wings.md)
  * [Blomkålsris](dinners/califlower.md)
@@ -28,6 +29,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pizza](dinners/pizza.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)
+ * [Sojafärs taco](dinners/taco.md)
 
 ## Fermentering
  * [Kimchi](fermentation/kimchi.md)
@@ -37,6 +39,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kryddig äppeldryck (4 koppar)](openair/apple.md)
  * [Chai (4 koppar)](openair/chai.md)
  * [Misosoppa med renkött (4 koppar)](openair/miso-soup.md)
+ * [Inbakad korv med Ajvar (8p)](openair/wrapped-sausage.md)
 
 ## Pastarätter
  * [Halloumi carbonara (4p)](pasta/halloumi-carbonara.md)
