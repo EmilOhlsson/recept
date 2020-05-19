@@ -5,16 +5,14 @@ Blanda deg, jäs 40+20 min, baka i ugn ca 15 min.
 
 Ingredienser
 ```
-3 dl mjölk
+1½ dl mjölk
 12 g jäst
 2-3 tsk salt
-1 tsk socker
-360g vetemjöl
+180g vetemjöl
 
 8 tjocka korvar
 1 dl ajvar relish
 
-Rostad lök
 Ägg
 ```
 
@@ -30,10 +28,13 @@ Rostad lök
 8. Bred på Ajvar på degen (inte hela vägen ut)
 9. Lägg på en korv och rulla ihop, lägg på bakplåtspapper
 10. Låt jäsa ca 20 minuter till
-11. Pensla korvpaketen med ägg, och strö över rostad lök
+11. Pensla korvpaketen med ägg
 12. Grädda i mitten av ugnen i ca 15 minuter, eller tills fin färg. Håll koll på löken så den inte bränner
 
 ## Kommentarer
 Första gången vi gjorde så blev degen lite tråkig i smaken, den hade mått bra av
 lite krydda i. Det skulle nog kunna vara gott med lite riven ost till ajvaren,
 eller något för att ge en liten sälta.
+
+Det funkade väldigt bra att byta Ajvaren mot chillisås, men det är ju inget som
+hindrar att man gör lite blandade varianter

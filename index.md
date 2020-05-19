@@ -23,6 +23,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kokosmjölkgryta med kikärtor](dinners/coco-chickpeas.md)
  * [Kefta tagine](dinners/kefta-tagine.md)
  * [Koreansk taco](dinners/korean-taco.md)
+ * [Kroppkakor med tomatsås](dinners/kroppkakor-with-tomatoe-sausce.md)
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Pastagratäng](dinners/pasta-gratin.md)
