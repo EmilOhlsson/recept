@@ -6,6 +6,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pizzadeg](bread/pizza-bottom.md)
  * [Bröd i järngryta](bread/pot-bread.md)
  * [Rågbröd](bread/rye-bread.md)
+ * [Burgarbröd på dinkel och surdeg](bread/sourdough-burger-bread.md)
 
 ## Efterrätter och sötsaker
 
@@ -54,6 +55,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [majonnäs](sauces/mayo.md)
  * [Senap](sauces/mustard.md)
  * [Toum](sauces/toum.md)
+ * [Tryffelkräm](sauces/truffel-dip.md)
 
 ## Obeprövat
 
