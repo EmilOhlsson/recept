@@ -35,3 +35,8 @@ Räcker till ca 4 stora pizzor. Potentiellt skulle det gå att byta till rågsur
    i kylskåp
 4. Tryck ut från mitten, för att bevara fluffiga kanter, och grädda i högsta
    möjliga värme från ugnen.
+
+## Reflektioner
+Att lägga degen på bakplåtspapper gjorde pizzan väldigt smidig att hantera och
+lägga på bakstenen. Vi testade att göra fyllning på kokad tomatsås och stekt
+renskav. Det blev väldigt gott
