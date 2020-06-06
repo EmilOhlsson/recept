@@ -7,6 +7,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Bröd i järngryta](bread/pot-bread.md)
  * [Rågbröd](bread/rye-bread.md)
  * [Burgarbröd på dinkel och surdeg](bread/sourdough-burger-bread.md)
+ * [Surdegspizza](bread/sourdough-pizza.md)
 
 ## Efterrätter och sötsaker
 
