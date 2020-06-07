@@ -41,6 +41,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Friluftsmat
  * [Kryddig äppeldryck (4 koppar)](openair/apple.md)
  * [Chai (4 koppar)](openair/chai.md)
+ * [Kolbullar](openair/coal-buns.md)
  * [Misosoppa med renkött (4 koppar)](openair/miso-soup.md)
  * [Inbakad korv med Ajvar (8p)](openair/wrapped-sausage.md)
 
