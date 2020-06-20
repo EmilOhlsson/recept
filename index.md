@@ -32,6 +32,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pizza](dinners/pizza.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)
+ * [Tortillas med rostad sötpotatis och kikärtor](dinners/sweetpotatoe-tortilla.md)
  * [Sojafärs taco](dinners/taco.md)
 
 ## Fermentering
@@ -60,6 +61,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Tryffelkräm](sauces/truffel-dip.md)
 
 ## Tillbehör
+ * [Stekta kikärtor](sides/fried-chickpeas.md)
  * [Refried black beans](sides/refried-beans.md)
 
 ## Obeprövat
