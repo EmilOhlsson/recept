@@ -5,8 +5,8 @@ Otestade recept som vi fick av Sara och Viktor
 Verkar kunna välja vilken som av dessa två fördegar
 ```
 50g surdeg
-150g vatten
-150g vetemjöl
+125g vatten
+125g vetemjöl
 ```
 eller
 ```
