@@ -59,6 +59,9 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Toum](sauces/toum.md)
  * [Tryffelkräm](sauces/truffel-dip.md)
 
+## Snapsar
+ * [Valnötsnaps](schnaps/walnut-schnaps.md)
+
 ## Tillbehör
  * [Refried black beans](sides/refried-beans.md)
 
