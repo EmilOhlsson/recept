@@ -30,7 +30,6 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pizza](dinners/pizza.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)
- * [Sojafärs taco](dinners/taco.md)
 
 ## Fermentering
  * [Kimchi](fermentation/kimchi.md)
@@ -67,4 +66,5 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Ceviche-tortilla (~4p)](wraps/ceviche-tortilla.md)
  * [Koreansk taco](wraps/korean-taco.md)
  * [Tortillas med rostad sötpotatis och kikärtor](wraps/sweetpotatoe-tortilla.md)
+ * [Sojafärs taco](wraps/taco.md)
 
