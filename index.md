@@ -19,12 +19,10 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Buffalo wings (~4p)](dinners/buffalo-wings.md)
  * [Blomkålsris](dinners/califlower.md)
  * [Caponata med kikärtstopping(4port)](dinners/caponata.md)
- * [Ceviche-tortilla (~4p)](dinners/ceviche-tortilla.md)
  * [Västafrikansk kikärtsgryta](dinners/chickpeastew.md)
  * [Chimichangas](dinners/chimichangas.md)
  * [Kokosmjölkgryta med kikärtor](dinners/coco-chickpeas.md)
  * [Kefta tagine](dinners/kefta-tagine.md)
- * [Koreansk taco](dinners/korean-taco.md)
  * [Kroppkakor med tomatsås](dinners/kroppkakor-with-tomatoe-sausce.md)
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
@@ -32,7 +30,6 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pizza](dinners/pizza.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)
- * [Tortillas med rostad sötpotatis och kikärtor](dinners/sweetpotatoe-tortilla.md)
  * [Sojafärs taco](dinners/taco.md)
 
 ## Fermentering
@@ -65,4 +62,9 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Refried black beans](sides/refried-beans.md)
 
 ## Obeprövat
+
+## Wraps
+ * [Ceviche-tortilla (~4p)](wraps/ceviche-tortilla.md)
+ * [Koreansk taco](wraps/korean-taco.md)
+ * [Tortillas med rostad sötpotatis och kikärtor](wraps/sweetpotatoe-tortilla.md)
 
