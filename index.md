@@ -54,6 +54,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Ädelost-dipp](sauces/blue-cheese-dip.md)
  * [majonnäs](sauces/mayo.md)
  * [Senap](sauces/mustard.md)
+ * [Ärtguacamole](sauces/pea-guacamole.md)
  * [Toum](sauces/toum.md)
  * [Tryffelkräm](sauces/truffel-dip.md)
 
