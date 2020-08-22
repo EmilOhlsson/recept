@@ -41,6 +41,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Friluftsmat
  * [Kryddig äppeldryck (4 koppar)](openair/apple.md)
  * [Chai (4 koppar)](openair/chai.md)
+ * [Club sandwich med baconmajonnäs](openair/club-sandwich.md)
  * [Kolbullar](openair/coal-buns.md)
  * [Misosoppa med renkött (4 koppar)](openair/miso-soup.md)
  * [Inbakad korv med Ajvar (8p)](openair/wrapped-sausage.md)
@@ -66,4 +67,5 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Refried black beans](sides/refried-beans.md)
 
 ## Obeprövat
+ * [Rödbetsråbiff](untried/red-beet-tartar.md)
 
