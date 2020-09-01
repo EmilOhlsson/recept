@@ -1,7 +1,10 @@
 # Valnötsnaps
+Enligt Oscars bok så ska valnötterna plockas i skiftet mellan juli och augusti.
+Eessensen spädas med 9 delar vodka till 1 del essens, och är som bäst efter ca
+10-15 år. Lämplig att servera som en aperitif eller till lagrad ost.
 ```
-6 st gröna valnötter, med skal och allt
-5 dl sprit
+6 st gröna valnötter, med skal och allt (4-5 enl. Oscars bok)
+5 dl sprit (Oscars bok nämner ej mängd)
 ```
 ## Gör så här
 * Dela valnötterna i fyra delar
