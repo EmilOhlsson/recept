@@ -3,16 +3,20 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Bröd
  * [Burgarbröd](bread/burger-bread.md)
  * [Lingongrova](bread/lingonberry.md)
+ * [Pajdeg](bread/pie-dough.md)
  * [Pizzadeg](bread/pizza-bottom.md)
  * [Bröd i järngryta](bread/pot-bread.md)
+ * [Rödbetsbröd](bread/redbeet-bread.md)
  * [Rågbröd](bread/rye-bread.md)
  * [Burgarbröd på dinkel och surdeg](bread/sourdough-burger-bread.md)
  * [Surdegspizza](bread/sourdough-pizza.md)
 
 ## Efterrätter och sötsaker
+ * [Glass på lemon curd](deserts/ice-cream.md)
 
 ## Middagar
  * [Arrabiata (4p)](dinners/arrabiata.md)
+ * [Fläskbullar med asiatisk stil](dinners/asian-style-meatballs.md)
  * [Bönchili (12port)](dinners/beanchili.md)
  * [Panerad rödspätta](dinners/breaded-plaice.md)
  * [Broccolibiffar](dinners/broccoli-biffar.md)
@@ -28,8 +32,10 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Pastagratäng](dinners/pasta-gratin.md)
  * [Pizza](dinners/pizza.md)
+ * [Rårakor](dinners/rarakor.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)
+ * [Tacopaj](dinners/taco-pie.md)
 
 ## Fermentering
  * [Kimchi](fermentation/kimchi.md)
@@ -53,6 +59,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Såser
  * [Ädelost-dipp](sauces/blue-cheese-dip.md)
  * [majonnäs](sauces/mayo.md)
+ * [Miso-majonnäsdipp](sauces/miso-mayo.md)
  * [Senap](sauces/mustard.md)
  * [Ärtguacamole](sauces/pea-guacamole.md)
  * [Toum](sauces/toum.md)
@@ -63,6 +70,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Tillbehör
  * [Stekta kikärtor](sides/fried-chickpeas.md)
+ * [Tomatkokta musslor](sides/musslor.md)
  * [Refried black beans](sides/refried-beans.md)
 
 ## Obeprövat
@@ -70,6 +78,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Wraps
  * [Ceviche-tortilla (~4p)](wraps/ceviche-tortilla.md)
+ * [Grekiska lammbullar](wraps/grekiska-lammbullar.md)
  * [Koreansk taco](wraps/korean-taco.md)
  * [Tortillas med rostad sötpotatis och kikärtor](wraps/sweetpotatoe-tortilla.md)
  * [Sojafärs taco](wraps/taco.md)
