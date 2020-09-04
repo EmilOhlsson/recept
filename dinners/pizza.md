@@ -1,7 +1,7 @@
 # Pizza
 Samling av pizza-toppings som har funkat bra.
 
-Tillagningen är i regel 15 minuter på 225 grader.
+Tillagningen är i regel 10-15 minuter på 250 grader.
 
 ## Pizza bianco med svamp
 * Champinjoner och eller annan svamp
@@ -17,3 +17,5 @@ Valfritt
 * Picklade senapsfrön
 
 riv ner vitlök i crème fraich, salta, peppra och krydda med timjan/basilika
+
+Det verkar som att många kör mascarpone i botten
