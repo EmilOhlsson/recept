@@ -1,6 +1,6 @@
 # Ärtguacamole
 ```
-50 dl (kokta, avsvalnade) gröna ärtor
+5 dl (kokta, avsvalnade) gröna ärtor
 1 klyfta vitlök
 2 msk olivolja
 1 tsk/msk limesaft
