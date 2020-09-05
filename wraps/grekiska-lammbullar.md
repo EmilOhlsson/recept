@@ -12,7 +12,7 @@ salt
 peppar
 oregano
 1 vitlöksklyfta
-``
+```
 Fetaostkräm
 ```
 2 1/2 dl grekisk yoghurt
