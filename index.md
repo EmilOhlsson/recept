@@ -42,6 +42,10 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kimchi](fermentation/kimchi.md)
  * [Pink Acid](fermentation/pink-acid.md)
 
+## Blandat
+ * [Kaffe](misc/coffee.md)
+ * [Te](misc/tea.md)
+
 ## Friluftsmat
  * [Kryddig äppeldryck (4 koppar)](openair/apple.md)
  * [Chai (4 koppar)](openair/chai.md)
