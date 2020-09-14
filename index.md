@@ -32,6 +32,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Pastagratäng](dinners/pasta-gratin.md)
+ * [Ärtburgare](dinners/pea-burgers.md)
  * [Pizza](dinners/pizza.md)
  * [Rårakor](dinners/rarakor.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
