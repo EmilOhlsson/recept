@@ -38,6 +38,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)
  * [Tacopaj](dinners/taco-pie.md)
+ * [Ugnsbakad kålrot](dinners/ugnsbakad-kalrot.md)
 
 ## Fermentering
  * [Kimchi](fermentation/kimchi.md)
@@ -78,6 +79,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Tillbehör
  * [Stekta kikärtor](sides/fried-chickpeas.md)
  * [Tomatkokta musslor](sides/musslor.md)
+ * [Pizza-sallad](sides/pizza-salad.md)
  * [Refried black beans](sides/refried-beans.md)
 
 ## Obeprövat

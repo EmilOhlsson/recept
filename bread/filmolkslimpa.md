@@ -26,3 +26,8 @@ ca 50g fint rivna morötter
    gräddningen om den blir för brun på ytan. (Öppna och stäng luckan snabbt så
    inte värmen åker ut). Låt limpan svalna inlindad i en handduk. Vänta tills
    den kallnat innan du skär den i skivor. 
+
+## För att göra bullar istället (passar bra som burgarbröd till broccolibiffar)
+* Klicka ut i bullar på en plåt. Inte allt för stora, de rinner ut lite
+* Sätt ugnen på 250°C istället, grädda 11-13 minuter
+
