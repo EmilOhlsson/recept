@@ -65,6 +65,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Såser
  * [Ädelost-dipp](sauces/blue-cheese-dip.md)
+ * [Hummus](sauces/hummus.md)
  * [majonnäs](sauces/mayo.md)
  * [Miso-majonnäsdipp](sauces/miso-mayo.md)
  * [Senap](sauces/mustard.md)
