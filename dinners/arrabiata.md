@@ -12,6 +12,7 @@
 * Soltorkade tomater
 * Olivolja
 * Basilika
+* Dill
 * Salt, peppar
 * Parmesan
 ```
