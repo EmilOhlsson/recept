@@ -31,6 +31,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kroppkakor med tomatsås](dinners/kroppkakor-with-tomatoe-sausce.md)
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
+ * [Pad thai](dinners/pad-thai.md)
  * [Pastagratäng](dinners/pasta-gratin.md)
  * [Ärtburgare](dinners/pea-burgers.md)
  * [Pizza](dinners/pizza.md)
