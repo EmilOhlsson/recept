@@ -34,6 +34,8 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pastagratäng](dinners/pasta-gratin.md)
  * [Ärtburgare](dinners/pea-burgers.md)
  * [Pizza](dinners/pizza.md)
+ * [Pulled butternut](dinners/pulled-butternut.md)
+ * [Pumpa-curry](dinners/pumpa-curry.md)
  * [Rårakor](dinners/rarakor.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)

@@ -2,6 +2,7 @@
 Trevligt kimchi-recept som jag fick av Patrik
 
 ## Ingredienser
+```
  * 1.5 kg salladskål, skuren i ca 4 cm stora bitar
  * 3 msk salt (grovsalt, helst jodfritt)
 
@@ -19,10 +20,11 @@ Trevligt kimchi-recept som jag fick av Patrik
  * 1 morot, skuren i tändstickstavar
  * 10 cm rättika, skuren i tändstickstavar
  * 1 äpple, skalat och finhackat
+```
 
 ## Gör såhär
 1. Lägg salladskålen i en stor skål. Blanda ner salt och rör runt. Låt stå i ca
-   90 minuter. Skjölj sedan av saltet från kålet, men smaka av så att det finns
+   90 minuter. Skölj sedan av saltet från kålet, men smaka av så att det finns
    saltsmak kvar.
 2. Koka ihop vatten, potatismjöl och socker tills det tjocknar. Låt svalna, och
    blanda sedan ner ingefära, vitlök, lök, fisksås och chilipulver.
