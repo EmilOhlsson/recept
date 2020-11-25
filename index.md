@@ -19,6 +19,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Arrabiata (4p)](dinners/arrabiata.md)
  * [Fläskbullar med asiatisk stil](dinners/asian-style-meatballs.md)
  * [Bönchili (12port)](dinners/beanchili.md)
+ * [Bibimbap](dinners/bibimbap.md)
  * [Panerad rödspätta](dinners/breaded-plaice.md)
  * [Broccolibiffar](dinners/broccoli-biffar.md)
  * [Buffalo wings (~4p)](dinners/buffalo-wings.md)
