@@ -18,6 +18,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Middagar
  * [Arrabiata (4p)](dinners/arrabiata.md)
  * [Fläskbullar med asiatisk stil](dinners/asian-style-meatballs.md)
+ * [Bönburgare med algsallad och syrad kål](dinners/bean-burger.md)
  * [Bönchili (12port)](dinners/beanchili.md)
  * [Bibimbap](dinners/bibimbap.md)
  * [Panerad rödspätta](dinners/breaded-plaice.md)
@@ -82,10 +83,15 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Valnötsnaps](schnaps/walnut-schnaps.md)
 
 ## Tillbehör
+ * [Algsallad](sides/algsallad.md)
  * [Stekta kikärtor](sides/fried-chickpeas.md)
+ * [Honungsrostad blomkål och broccoli med c](sides/honungsrostad-blomkal-och-broccoli.md)
+ * [Khachapuri - Pirog med ost och ägg](sides/khachpauri.md)
  * [Tomatkokta musslor](sides/musslor.md)
  * [Pizza-sallad](sides/pizza-salad.md)
  * [Refried black beans](sides/refried-beans.md)
+ * [Syrad rödkål](sides/syrad-kal.md)
+ * [Turkisk cilblir - Pocherade ägg med vitlöksyoghurt och chilismör](sides/turkisk-cilbir.md)
 
 ## Obeprövat
  * [Rödbetsråbiff](untried/red-beet-tartar.md)
