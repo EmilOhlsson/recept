@@ -40,6 +40,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pulled butternut](dinners/pulled-butternut.md)
  * [Pumpa-curry](dinners/pumpa-curry.md)
  * [Rårakor](dinners/rarakor.md)
+ * [Röding i ugn](dinners/roding-in-oven.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)
  * [Tacopaj](dinners/taco-pie.md)
@@ -78,6 +79,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Ranchdressing](sauces/ranch.md)
  * [Toum](sauces/toum.md)
  * [Tryffelkräm](sauces/truffel-dip.md)
+ * [Vinägrett](sauces/vinegrett.md)
 
 ## Snapsar
  * [Valnötsnaps](schnaps/walnut-schnaps.md)
