@@ -4,6 +4,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Burgarbröd](bread/burger-bread.md)
  * [Filmjölkslimpa med morötter](bread/filmolkslimpa.md)
  * [Lingongrova](bread/lingonberry.md)
+ * [Lussebullar](bread/lussebullar.md)
  * [Pajdeg](bread/pie-dough.md)
  * [Pizzadeg](bread/pizza-bottom.md)
  * [Bröd i järngryta](bread/pot-bread.md)
