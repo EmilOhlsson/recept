@@ -27,7 +27,7 @@ Räcker till ca 4 stora pizzor. Potentiellt skulle det gå att byta till rågsur
 25g olivolja
 ```
 
-1. Blanda surgene med resten av ingredienserna, och låt vila 45 minuter
+1. Blanda surdegen med resten av ingredienserna, och låt vila 45 minuter
 2. Ta upp deg på mjölat bakbord och dela den i fyra bitar. Forma varje degbit
    till en boll
 3. Lägg degen att jäsa på en bricka eller skärbräda, droppa olivolja på bollarna
