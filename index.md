@@ -14,6 +14,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Surdegspizza](bread/sourdough-pizza.md)
 
 ## Efterrätter och sötsaker
+ * [Chokladfondant](deserts/chocolate-fontant.md)
  * [Glass på lemon curd](deserts/ice-cream.md)
 
 ## Middagar
