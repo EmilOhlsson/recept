@@ -33,6 +33,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kokosmjölkgryta med kikärtor](dinners/coco-chickpeas.md)
  * [Kefta tagine](dinners/kefta-tagine.md)
  * [Kroppkakor med tomatsås](dinners/kroppkakor-with-tomatoe-sausce.md)
+ * [Kryddig linsgryta](dinners/kryddig-linsgryta.md)
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Pad thai](dinners/pad-thai.md)
@@ -41,6 +42,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pizza](dinners/pizza.md)
  * [Pulled butternut](dinners/pulled-butternut.md)
  * [Pumpa-curry](dinners/pumpa-curry.md)
+ * [Quesedillas med refried garam masala-linser](dinners/quesedillas-med-refried-lentils.md)
  * [Rårakor](dinners/rarakor.md)
  * [Röding i ugn](dinners/roding-in-oven.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
@@ -73,7 +75,6 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Såser
  * [Ädelost-dipp](sauces/blue-cheese-dip.md)
- * [Hummus](sauces/hummus.md)
  * [majonnäs](sauces/mayo.md)
  * [Miso-majonnäsdipp](sauces/miso-mayo.md)
  * [Senap](sauces/mustard.md)
@@ -92,13 +93,26 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Honungsrostad blomkål och broccoli med c](sides/honungsrostad-blomkal-och-broccoli.md)
  * [Khachapuri - Pirog med ost och ägg](sides/khachpauri.md)
  * [Tomatkokta musslor](sides/musslor.md)
+ * [Farmors lökströmming](sides/pickled-herring.md)
  * [Pizza-sallad](sides/pizza-salad.md)
  * [Refried black beans](sides/refried-beans.md)
  * [Syrad rödkål](sides/syrad-kal.md)
  * [Turkisk cilblir - Pocherade ägg med vitlöksyoghurt och chilismör](sides/turkisk-cilbir.md)
 
+## Soppor
+ * [Paprika-soppa](soups/paprika-soppa.md)
+ * [Spenatsoppa](soups/spenatsoppa.md)
+ * [Svampsoppa](soups/svampsoppa.md)
+
+## Pålägg
+ * [Hummus](spread/hummus.md)
+ * [Vegetarisk sylta](spread/sylta.md)
+
+## Förrätter
+ * [Rödbetsråbiff](starters/red-beet-tartar.md)
+
 ## Obeprövat
- * [Rödbetsråbiff](untried/red-beet-tartar.md)
+ * [Fiskbiffar med citronsås och spenat](untried/fiskbiffar.md)
 
 ## Wraps
  * [Ceviche-tortilla (~4p)](wraps/ceviche-tortilla.md)
