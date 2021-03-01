@@ -16,6 +16,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Efterrätter och sötsaker
  * [Chokladfondant](deserts/chocolate-fontant.md)
  * [Glass på lemon curd](deserts/ice-cream.md)
+ * [Solrosmassa (istället för mandelmassa)](deserts/solrosmassa.md)
 
 ## Middagar
  * [Arrabiata (4p)](dinners/arrabiata.md)
