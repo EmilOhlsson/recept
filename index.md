@@ -74,6 +74,9 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Picklat
  * [chiligurka](pickled/chili-cucumber.md)
 
+## Snabblagat
+ * [Pasta med gräddig tomatsås](quick/pasta-med-creamy-tomates.md)
+
 ## Såser
  * [Ädelost-dipp](sauces/blue-cheese-dip.md)
  * [majonnäs](sauces/mayo.md)
