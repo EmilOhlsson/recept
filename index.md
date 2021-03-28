@@ -35,6 +35,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kefta tagine](dinners/kefta-tagine.md)
  * [Kroppkakor med tomatsås](dinners/kroppkakor-with-tomatoe-sausce.md)
  * [Kryddig linsgryta](dinners/kryddig-linsgryta.md)
+ * [Kvarngrynsbowl med svamp och misomajonäs](dinners/kvarngrynsbowl.md)
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Pad thai](dinners/pad-thai.md)
