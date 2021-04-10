@@ -81,6 +81,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Såser
  * [Ädelost-dipp](sauces/blue-cheese-dip.md)
+ * [Gräddsås till vilt](sauces/gräddsås-till-vilt.md)
  * [majonnäs](sauces/mayo.md)
  * [Miso-majonnäsdipp](sauces/miso-mayo.md)
  * [Senap](sauces/mustard.md)
@@ -95,6 +96,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Tillbehör
  * [Algsallad](sides/algsallad.md)
+ * [Grillade morötter](sides/bbq-carrots.md)
  * [Gräddkokt majs](sides/cream-cooked-corn.md)
  * [Stekta kikärtor](sides/fried-chickpeas.md)
  * [Honungsrostad blomkål och broccoli med c](sides/honungsrostad-blomkal-och-broccoli.md)
