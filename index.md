@@ -37,6 +37,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kryddig linsgryta](dinners/kryddig-linsgryta.md)
  * [Kvarngrynsbowl med svamp och misomajonäs](dinners/kvarngrynsbowl.md)
  * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
+ * [Bönchili med choklad, öl och gräddkokt majs](dinners/lyxig-beanchili.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Pad thai](dinners/pad-thai.md)
  * [Pastagratäng](dinners/pasta-gratin.md)
@@ -94,6 +95,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Tillbehör
  * [Algsallad](sides/algsallad.md)
+ * [Gräddkokt majs](sides/cream-cooked-corn.md)
  * [Stekta kikärtor](sides/fried-chickpeas.md)
  * [Honungsrostad blomkål och broccoli med c](sides/honungsrostad-blomkal-och-broccoli.md)
  * [Khachapuri - Pirog med ost och ägg](sides/khachpauri.md)
