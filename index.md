@@ -42,6 +42,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pad thai](dinners/pad-thai.md)
  * [Pastagratäng](dinners/pasta-gratin.md)
  * [Ärtburgare](dinners/pea-burgers.md)
+ * [Ärtsoppa](dinners/pea-soup.md)
  * [Pizza](dinners/pizza.md)
  * [Pulled butternut](dinners/pulled-butternut.md)
  * [Pumpa-curry](dinners/pumpa-curry.md)
@@ -105,6 +106,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Farmors lökströmming](sides/pickled-herring.md)
  * [Pizza-sallad](sides/pizza-salad.md)
  * [Refried black beans](sides/refried-beans.md)
+ * [Ugnsrostad portobello](sides/roasted-portobello.md)
  * [Syrad rödkål](sides/syrad-kal.md)
  * [Turkisk cilblir - Pocherade ägg med vitlöksyoghurt och chilismör](sides/turkisk-cilbir.md)
 
