@@ -107,6 +107,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pizza-sallad](sides/pizza-salad.md)
  * [Refried black beans](sides/refried-beans.md)
  * [Ugnsrostad portobello](sides/roasted-portobello.md)
+ * [Sötpotatis-pasta](sides/sweet-potatoe-pasta.md)
  * [Syrad rödkål](sides/syrad-kal.md)
  * [Turkisk cilblir - Pocherade ägg med vitlöksyoghurt och chilismör](sides/turkisk-cilbir.md)
 
