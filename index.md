@@ -19,33 +19,18 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Solrosmassa (istället för mandelmassa)](deserts/solrosmassa.md)
 
 ## Middagar
- * [Arrabiata (4p)](dinners/arrabiata.md)
- * [Fläskbullar med asiatisk stil](dinners/asian-style-meatballs.md)
  * [Bönburgare med algsallad och syrad kål](dinners/bean-burger.md)
- * [Bönchili (12port)](dinners/beanchili.md)
- * [Bibimbap](dinners/bibimbap.md)
  * [Panerad rödspätta](dinners/breaded-plaice.md)
  * [Broccolibiffar](dinners/broccoli-biffar.md)
  * [Buffalo wings (~4p)](dinners/buffalo-wings.md)
- * [Blomkålsris](dinners/califlower.md)
  * [Caponata med kikärtstopping(4port)](dinners/caponata.md)
- * [Västafrikansk kikärtsgryta](dinners/chickpeastew.md)
- * [Chimichangas](dinners/chimichangas.md)
- * [Kokosmjölkgryta med kikärtor](dinners/coco-chickpeas.md)
- * [Kefta tagine](dinners/kefta-tagine.md)
  * [Kroppkakor med tomatsås](dinners/kroppkakor-with-tomatoe-sausce.md)
- * [Kryddig linsgryta](dinners/kryddig-linsgryta.md)
  * [Kvarngrynsbowl med svamp och misomajonäs](dinners/kvarngrynsbowl.md)
- * [Linsgryta m. halloumi](dinners/lentil-with-halloumi.md)
- * [Bönchili med choklad, öl och gräddkokt majs](dinners/lyxig-beanchili.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Pad thai](dinners/pad-thai.md)
- * [Pastagratäng](dinners/pasta-gratin.md)
  * [Ärtburgare](dinners/pea-burgers.md)
- * [Ärtsoppa](dinners/pea-soup.md)
  * [Pizza](dinners/pizza.md)
  * [Pulled butternut](dinners/pulled-butternut.md)
- * [Pumpa-curry](dinners/pumpa-curry.md)
  * [Quesedillas med refried garam masala-linser](dinners/quesedillas-med-refried-lentils.md)
  * [Rårakor](dinners/rarakor.md)
  * [Röding i ugn](dinners/roding-in-oven.md)
@@ -57,6 +42,13 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Fermentering
  * [Kimchi](fermentation/kimchi.md)
  * [Pink Acid](fermentation/pink-acid.md)
+
+## Helgmat
+ * [Fläskbullar med asiatisk stil](helg/asian-style-meatballs.md)
+ * [Bibimbap](helg/bibimbap.md)
+ * [Chimichangas](helg/chimichangas.md)
+ * [Kefta tagine](helg/kefta-tagine.md)
+ * [Bönchili med choklad, öl och gräddkokt majs](helg/lyxig-beanchili.md)
 
 ## Blandat
  * [Kaffe](misc/coffee.md)
@@ -71,6 +63,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Inbakad korv med Ajvar (8p)](openair/wrapped-sausage.md)
 
 ## Pastarätter
+ * [Arrabiata (4p)](pasta/arrabiata.md)
  * [Halloumi carbonara (4p)](pasta/halloumi-carbonara.md)
  * [Pastadeg (1p)](pasta/pasta-dough.md)
 
@@ -78,6 +71,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [chiligurka](pickled/chili-cucumber.md)
 
 ## Snabblagat
+ * [Blomkålsris](quick/califlower.md)
  * [Pasta med gräddig tomatsås](quick/pasta-med-creamy-tomates.md)
 
 ## Såser
@@ -122,6 +116,16 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Förrätter
  * [Rödbetsråbiff](starters/red-beet-tartar.md)
+
+## Storkok
+ * [Bönchili (12port)](storkok/beanchili.md)
+ * [Västafrikansk kikärtsgryta](storkok/chickpeastew.md)
+ * [Kokosmjölkgryta med kikärtor](storkok/coco-chickpeas.md)
+ * [Kryddig linsgryta](storkok/kryddig-linsgryta.md)
+ * [Linsgryta m. halloumi](storkok/lentil-with-halloumi.md)
+ * [Pastagratäng](storkok/pasta-gratin.md)
+ * [Ärtsoppa](storkok/pea-soup.md)
+ * [Pumpa-curry](storkok/pumpa-curry.md)
 
 ## Obeprövat
  * [Fiskbiffar med citronsås och spenat](untried/fiskbiffar.md)
