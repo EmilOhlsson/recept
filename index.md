@@ -1,6 +1,6 @@
 # Emils receptsamling
 En liten receptsamling, mest för att det ska gå snabbare på ICA
-name=Bröd
+## Bröd
  * [Bröd i järngryta](bread/pot-bread.md)
  * [Burgarbröd på dinkel och surdeg](bread/sourdough-burger-bread.md)
  * [Burgarbröd](bread/burger-bread.md)
@@ -12,29 +12,35 @@ name=Bröd
  * [Rågbröd](bread/rye-bread.md)
  * [Rödbetsbröd](bread/redbeet-bread.md)
  * [Surdegspizza](bread/sourdough-pizza.md)
-name=Efterrätter och sötsaker
+
+## Efterrätter och sötsaker
  * [Chokladfondant](deserts/chocolate-fontant.md)
  * [Glass på lemon curd](deserts/ice-cream.md)
  * [Solrosmassa (istället för mandelmassa)](deserts/solrosmassa.md)
-name=Fermentering
+
+## Fermentering
  * [Kimchi](fermentation/kimchi.md)
  * [Pink Acid](fermentation/pink-acid.md)
-name=Friluftsmat
+
+## Friluftsmat
  * [Chai (4 koppar)](openair/chai.md)
  * [Club sandwich med baconmajonnäs](openair/club-sandwich.md)
  * [Inbakad korv med Ajvar (8p)](openair/wrapped-sausage.md)
  * [Kolbullar](openair/coal-buns.md)
  * [Kryddig äppeldryck (4 koppar)](openair/apple.md)
  * [Misosoppa med renkött (4 koppar)](openair/miso-soup.md)
-name=Förrätter
+
+## Förrätter
  * [Rödbetsråbiff](starters/red-beet-tartar.md)
-name=Helgmat
+
+## Helgmat
  * [Bibimbap](helg/bibimbap.md)
  * [Bönchili med choklad, öl och gräddkokt majs](helg/lyxig-beanchili.md)
  * [Chimichangas](helg/chimichangas.md)
  * [Fläskbullar med asiatisk stil](helg/asian-style-meatballs.md)
  * [Kefta tagine](helg/kefta-tagine.md)
-name=Middagar
+
+## Middagar
  * [Broccolibiffar](dinners/broccoli-biffar.md)
  * [Buffalo wings (~4p)](dinners/buffalo-wings.md)
  * [Bönburgare med algsallad och syrad kål](dinners/bean-burger.md)
@@ -54,27 +60,35 @@ name=Middagar
  * [Tacopaj](dinners/taco-pie.md)
  * [Ugnsbakad kålrot](dinners/ugnsbakad-kalrot.md)
  * [Ärtburgare](dinners/pea-burgers.md)
-name=Obeprövat
+
+## Obeprövat
  * [Fiskbiffar med citronsås och spenat](untried/fiskbiffar.md)
-name=Pastarätter
+
+## Pastarätter
  * [Arrabiata (4p)](pasta/arrabiata.md)
  * [Halloumi carbonara (4p)](pasta/halloumi-carbonara.md)
  * [Pastadeg (1p)](pasta/pasta-dough.md)
-name=Picklat
+
+## Picklat
  * [chiligurka](pickled/chili-cucumber.md)
-name=Pålägg
+
+## Pålägg
  * [Hummus](spread/hummus.md)
  * [Vegetarisk sylta](spread/sylta.md)
-name=Snabblagat
+
+## Snabblagat
  * [Blomkålsris](quick/califlower.md)
  * [Pasta med gräddig tomatsås](quick/pasta-med-creamy-tomates.md)
-name=Snapsar
+
+## Snapsar
  * [Valnötsnaps](schnaps/walnut-schnaps.md)
-name=Soppor
+
+## Soppor
  * [Paprika-soppa](soups/paprika-soppa.md)
  * [Spenatsoppa](soups/spenatsoppa.md)
  * [Svampsoppa](soups/svampsoppa.md)
-name=Storkok
+
+## Storkok
  * [Bönchili (12port)](storkok/beanchili.md)
  * [Kokosmjölkgryta med kikärtor](storkok/coco-chickpeas.md)
  * [Kryddig linsgryta](storkok/kryddig-linsgryta.md)
@@ -83,7 +97,8 @@ name=Storkok
  * [Pumpa-curry](storkok/pumpa-curry.md)
  * [Västafrikansk kikärtsgryta](storkok/chickpeastew.md)
  * [Ärtsoppa](storkok/pea-soup.md)
-name=Såser
+
+## Såser
  * [Gräddsås till vilt](sauces/gräddsås-till-vilt.md)
  * [Miso-majonnäsdipp](sauces/miso-mayo.md)
  * [Ranchdressing](sauces/ranch.md)
@@ -94,7 +109,8 @@ name=Såser
  * [majonnäs](sauces/mayo.md)
  * [Ädelost-dipp](sauces/blue-cheese-dip.md)
  * [Ärtguacamole](sauces/pea-guacamole.md)
-name=Tillbehör
+
+## Tillbehör
  * [Algsallad](sides/algsallad.md)
  * [Farmors lökströmming](sides/pickled-herring.md)
  * [Grillade morötter](sides/bbq-carrots.md)
@@ -109,12 +125,15 @@ name=Tillbehör
  * [Tomatkokta musslor](sides/musslor.md)
  * [Turkisk cilblir - Pocherade ägg med vitlöksyoghurt och chilismör](sides/turkisk-cilbir.md)
  * [Ugnsrostad portobello](sides/roasted-portobello.md)
-name=Wraps
+
+## Wraps
  * [Ceviche-tortilla (~4p)](wraps/ceviche-tortilla.md)
  * [Grekiska lammbullar](wraps/grekiska-lammbullar.md)
  * [Koreansk taco](wraps/korean-taco.md)
  * [Sojafärs taco](wraps/taco.md)
  * [Tortillas med rostad sötpotatis och kikärtor](wraps/sweetpotatoe-tortilla.md)
-name=Övrigt
+
+## Övrigt
  * [Kaffe](misc/coffee.md)
  * [Te](misc/tea.md)
+

@@ -27,6 +27,7 @@ for directory, subdirectories, files in os.walk('.'):
 print('# Emils receptsamling')
 print('''En liten receptsamling, mest för att det ska gå snabbare på ICA''')
 for name, recipies in sorted(categories):
-    print(f'name={name}')
+    print(f'## {name}')
     for link in sorted(recipies):
         print(f' * {link}')
+    print()
