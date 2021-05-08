@@ -1,6 +1,7 @@
 # Refried black beans
 ```
 2 Gula lökar
+3 vitlöksklyftor
 500g Svarta bönor
 1 dl rapsolja
 3 dl vatten
