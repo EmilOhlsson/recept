@@ -16,6 +16,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Efterrätter och sötsaker
  * [Chokladfondant](deserts/chocolate-fontant.md)
  * [Glass på lemon curd](deserts/ice-cream.md)
+ * [Rabarberpaj (6p)](deserts/rabarberpaj.md)
  * [Solrosmassa (istället för mandelmassa)](deserts/solrosmassa.md)
 
 ## Fermentering
@@ -78,6 +79,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Snabblagat
  * [Blomkålsris](quick/califlower.md)
+ * [Makaroner med yoghurt (4p)](quick/makarona-bi-labban.md)
  * [Pasta med gräddig tomatsås](quick/pasta-med-creamy-tomates.md)
 
 ## Snapsar

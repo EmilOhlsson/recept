@@ -20,7 +20,7 @@
 * koka upp vattnet
 * smula ner buljontärning i ugnsform
 * Hälll ner chilisås, och krydda
-* Häll över vatten och grädde och vispa så att buljonen löser sig
+* Häll över vatten och grädde och vispa så att buljongen löser sig
 * Häll i pasta, bönor och ströbröd
 * lägg på ostskivor tills gratängen är täckt
 * Grädda i ugn 20 minuter
