@@ -30,6 +30,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kolbullar](openair/coal-buns.md)
  * [Kryddig äppeldryck (4 koppar)](openair/apple.md)
  * [Misosoppa med renkött (4 koppar)](openair/miso-soup.md)
+ * [Runekakor](openair/rune-rakor.md)
 
 ## Förrätter
  * [Rödbetsråbiff](starters/red-beet-tartar.md)
