@@ -108,6 +108,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Miso-majonnäsdipp](sauces/miso-mayo.md)
  * [Ranchdressing](sauces/ranch.md)
  * [Senap](sauces/mustard.md)
+ * [Sriracha](sauces/sriracha.md)
  * [Toum](sauces/toum.md)
  * [Tryffelkräm](sauces/truffel-dip.md)
  * [Vinägrett](sauces/vinegrett.md)
