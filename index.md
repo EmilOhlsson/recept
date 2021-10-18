@@ -50,6 +50,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kroppkakor med tomatsås](dinners/kroppkakor-with-tomatoe-sausce.md)
  * [Kvarngrynsbowl med svamp och misomajonäs](dinners/kvarngrynsbowl.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
+ * [Lammfärslasagne](dinners/lammfarslasagne.md)
  * [Okinomiyaki](dinners/okinomiyaki.md)
  * [Pad thai](dinners/pad-thai.md)
  * [Panerad rödspätta](dinners/breaded-plaice.md)
