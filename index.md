@@ -52,6 +52,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kvarngrynsbowl med svamp och misomajonäs](dinners/kvarngrynsbowl.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Lammfärslasagne](dinners/lammfarslasagne.md)
+ * [Matveteotto](dinners/matveteotto.md)
  * [Okinomiyaki](dinners/okinomiyaki.md)
  * [Pad thai](dinners/pad-thai.md)
  * [Panerad rödspätta](dinners/breaded-plaice.md)
