@@ -144,6 +144,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Övrigt
  * [Kaffe](misc/coffee.md)
+ * [Risgrynsgröt](misc/risgrynsgrot.md)
  * [Saft](misc/saft.md)
  * [Te](misc/tea.md)
 
