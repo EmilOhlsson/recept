@@ -43,6 +43,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kefta tagine](helg/kefta-tagine.md)
 
 ## Middagar
+ * [Blomkålscurry med potatis](dinners/blomkalscurry-med-potatis.md)
  * [Broccolibiffar](dinners/broccoli-biffar.md)
  * [Buffalo wings (~4p)](dinners/buffalo-wings.md)
  * [Bönburgare med algsallad och syrad kål](dinners/bean-burger.md)
@@ -139,6 +140,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Wraps
  * [Ceviche-tortilla (~4p)](wraps/ceviche-tortilla.md)
  * [Grekiska lammbullar](wraps/grekiska-lammbullar.md)
+ * [Halloumitacos med sötpotatis och coleslaw](wraps/halloumitacos-med-sotpotatis.md)
  * [Koreansk taco](wraps/korean-taco.md)
  * [Sojafärs taco](wraps/taco.md)
  * [Tortillas med rostad sötpotatis och kikärtor](wraps/sweetpotatoe-tortilla.md)
