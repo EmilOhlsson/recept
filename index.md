@@ -64,6 +64,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Röding i ugn](dinners/roding-in-oven.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
  * [Shepards pie](dinners/shepards-pie.md)
+ * [Stuvad vitkål](dinners/stuvad-kal.md)
  * [Söndagsgryta med korv (6p)](dinners/sausage-stew.md)
  * [Tacopaj](dinners/taco-pie.md)
  * [Ugnsbakad kålrot](dinners/ugnsbakad-kalrot.md)
