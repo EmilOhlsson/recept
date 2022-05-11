@@ -48,6 +48,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Buffalo wings (~4p)](dinners/buffalo-wings.md)
  * [Bönburgare med algsallad och syrad kål](dinners/bean-burger.md)
  * [Caponata med kikärtstopping(4port)](dinners/caponata.md)
+ * [Gottfärssås på gula ärtor](dinners/gottfarssås.md)
  * [Gryta med rödbetor och gula ärtor](dinners/rödbetsgryta.md)
  * [Kroppkakor med tomatsås](dinners/kroppkakor-with-tomatoe-sausce.md)
  * [Kvarngrynsbowl med svamp och misomajonäs](dinners/kvarngrynsbowl.md)
