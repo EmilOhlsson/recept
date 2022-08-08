@@ -135,6 +135,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Gräddkokt majs](sides/cream-cooked-corn.md)
  * [Honungsrostad blomkål och broccoli med c](sides/honungsrostad-blomkal-och-broccoli.md)
  * [Khachapuri - Pirog med ost och ägg](sides/khachpauri.md)
+ * [Kokt majskolv](sides/kokt-majs.md)
  * [Pizza-sallad](sides/pizza-salad.md)
  * [Refried black beans](sides/refried-beans.md)
  * [Stekta kikärtor](sides/fried-chickpeas.md)
