@@ -11,6 +11,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pizzadeg](bread/pizza-bottom.md)
  * [Rågbröd](bread/rye-bread.md)
  * [Rödbetsbröd](bread/redbeet-bread.md)
+ * [Scones](bread/scones.md)
  * [Surdegspizza](bread/sourdough-pizza.md)
 
 ## Efterrätter och sötsaker
@@ -71,6 +72,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Sönddagsstek med gräddsås](dinners/söndagsstek.md)
  * [Tacopaj](dinners/taco-pie.md)
  * [Ugnsbakad kålrot](dinners/ugnsbakad-kalrot.md)
+ * [Västerbottenpaj](dinners/västerbottenpaj.md)
  * [Ärtburgare](dinners/pea-burgers.md)
 
 ## Obeprövat
