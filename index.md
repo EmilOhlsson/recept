@@ -81,6 +81,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Pastarätter
  * [Arrabiata (4p)](pasta/arrabiata.md)
  * [Halloumi carbonara (4p)](pasta/halloumi-carbonara.md)
+ * [Pasta i tomatsås](pasta/pasta-i-tomatsås.md)
  * [Pastadeg (1p)](pasta/pasta-dough.md)
 
 ## Picklat
