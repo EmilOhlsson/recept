@@ -56,6 +56,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kycklingfajitas](dinners/kyckling-fajitas.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Lammfärslasagne](dinners/lammfarslasagne.md)
+ * [Lasagne](dinners/lasagne.md)
  * [Matveteotto](dinners/matveteotto.md)
  * [Okinomiyaki](dinners/okinomiyaki.md)
  * [Pad thai](dinners/pad-thai.md)
