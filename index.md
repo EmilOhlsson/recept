@@ -94,6 +94,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Snabblagat
  * [Blomkålsris](quick/califlower.md)
+ * [Grönkålspasta](quick/gronkalspasta.md)
  * [Makaroner med yoghurt (4p)](quick/makarona-bi-labban.md)
  * [Pasta med gräddig tomatsås](quick/pasta-med-creamy-tomates.md)
 
@@ -106,7 +107,9 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Svampsoppa](soups/svampsoppa.md)
 
 ## Storkok
+ * [Aloo Gobi-plåt](storkok/aloo-gobi.md)
  * [Bönchili (12port)](storkok/beanchili.md)
+ * [Enkel pastagratäng](storkok/enkel-pastagratang.md)
  * [Kokosmjölkgryta med kikärtor](storkok/coco-chickpeas.md)
  * [Kryddig linsgryta](storkok/kryddig-linsgryta.md)
  * [Linsgryta m. halloumi](storkok/lentil-with-halloumi.md)
@@ -138,6 +141,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Honungsrostad blomkål och broccoli med c](sides/honungsrostad-blomkal-och-broccoli.md)
  * [Khachapuri - Pirog med ost och ägg](sides/khachpauri.md)
  * [Kokt majskolv](sides/kokt-majs.md)
+ * [Majsnuggets](sides/majsnuggets.md)
  * [Pizza-sallad](sides/pizza-salad.md)
  * [Refried black beans](sides/refried-beans.md)
  * [Stekta kikärtor](sides/fried-chickpeas.md)
