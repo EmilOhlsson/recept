@@ -51,6 +51,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Caponata med kikärtstopping(4port)](dinners/caponata.md)
  * [Gottfärssås på gula ärtor](dinners/gottfarssås.md)
  * [Gryta med rödbetor och gula ärtor](dinners/rödbetsgryta.md)
+ * [Korv stroganoff](dinners/stroganoff.md)
  * [Kroppkakor med tomatsås](dinners/kroppkakor-with-tomatoe-sausce.md)
  * [Kvarngrynsbowl med svamp och misomajonäs](dinners/kvarngrynsbowl.md)
  * [Kycklingfajitas](dinners/kyckling-fajitas.md)
@@ -75,6 +76,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Ugnsbakad kålrot](dinners/ugnsbakad-kalrot.md)
  * [Västerbottenpaj](dinners/västerbottenpaj.md)
  * [Ärtburgare](dinners/pea-burgers.md)
+ * [Ångad vitkål](dinners/steamed-cabage.md)
 
 ## Obeprövat
  * [Fiskbiffar med citronsås och spenat](untried/fiskbiffar.md)
