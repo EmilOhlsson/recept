@@ -65,6 +65,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pizza](dinners/pizza.md)
  * [Pulled butternut](dinners/pulled-butternut.md)
  * [Quesedillas med refried garam masala-linser](dinners/quesedillas-med-refried-lentils.md)
+ * [Ris](dinners/ris.md)
  * [Rårakor](dinners/rarakor.md)
  * [Röding i ugn](dinners/roding-in-oven.md)
  * [Saltkokta potatisar](dinners/salty-potatoes.md)
