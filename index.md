@@ -111,6 +111,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Storkok
  * [Aloo Gobi-plåt](storkok/aloo-gobi.md)
+ * [Broccoli-soppa](storkok/broccoli-soup.md)
  * [Bönchili (12port)](storkok/beanchili.md)
  * [Enkel pastagratäng](storkok/enkel-pastagratang.md)
  * [Kokosmjölkgryta med kikärtor](storkok/coco-chickpeas.md)
