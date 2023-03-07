@@ -17,7 +17,9 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Efterrätter och sötsaker
  * [Chokladfondant](deserts/chocolate-fontant.md)
  * [Glass på lemon curd](deserts/ice-cream.md)
+ * [Morotskaka](deserts/carrot-cake.md)
  * [Rabarberpaj (6p)](deserts/rabarberpaj.md)
+ * [Sachertårta](deserts/sachertarta.md)
  * [Solrosmassa (istället för mandelmassa)](deserts/solrosmassa.md)
 
 ## Fermentering
