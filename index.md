@@ -78,6 +78,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Tacopaj](dinners/taco-pie.md)
  * [Ugnsbakad kålrot](dinners/ugnsbakad-kalrot.md)
  * [Västerbottenpaj](dinners/västerbottenpaj.md)
+ * [Zurek](dinners/zurek.md)
  * [Ärtburgare](dinners/pea-burgers.md)
  * [Ångad vitkål](dinners/steamed-cabage.md)
 
