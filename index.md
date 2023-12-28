@@ -17,8 +17,8 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Efterrätter och sötsaker
  * [Chokladfondant](deserts/chocolate-fontant.md)
  * [Glass på lemon curd](deserts/ice-cream.md)
- * [Morotskaka](deserts/carrot-cake.md)
  * [Kolacheesecake med daim, 12 bitar:](deserts/kola-cheesecake.md)
+ * [Morotskaka](deserts/carrot-cake.md)
  * [Rabarberpaj (6p)](deserts/rabarberpaj.md)
  * [Sachertårta](deserts/sachertarta.md)
  * [Solrosmassa (istället för mandelmassa)](deserts/solrosmassa.md)
@@ -107,6 +107,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pasta med gräddig tomatsås](quick/pasta-med-creamy-tomates.md)
 
 ## Snapsar
+ * [Julsnaps](schnaps/julsnaps.md)
  * [Valnötsnaps](schnaps/walnut-schnaps.md)
 
 ## Soppor
@@ -122,6 +123,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kokosmjölkgryta med kikärtor](storkok/coco-chickpeas.md)
  * [Kryddig linsgryta](storkok/kryddig-linsgryta.md)
  * [Linsgryta m. halloumi](storkok/lentil-with-halloumi.md)
+ * [Pannbiffar](storkok/pannbiffar.md)
  * [Pastagratäng](storkok/pasta-gratin.md)
  * [Potatis- och löksoppa](storkok/potatis-och-loksoppa.md)
  * [Pumpa-curry](storkok/pumpa-curry.md)
