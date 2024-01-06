@@ -1,5 +1,9 @@
 # Emils receptsamling
 En liten receptsamling, mest för att det ska gå snabbare på ICA
+## Barnmat
+ * [Bananpannkaka](kids/bananpannkaka.md)
+ * [Blomkålspinnar med ost](kids/blomkalspinnar.md)
+
 ## Bröd
  * [Bröd i järngryta](bread/pot-bread.md)
  * [Burgarbröd på dinkel och surdeg](bread/sourdough-burger-bread.md)
@@ -58,6 +62,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Kroppkakor med tomatsås](dinners/kroppkakor-with-tomatoe-sausce.md)
  * [Kvarngrynsbowl med svamp och misomajonäs](dinners/kvarngrynsbowl.md)
  * [Kycklingfajitas](dinners/kyckling-fajitas.md)
+ * [Kålpudding](dinners/kalpudding.md)
  * [Köttbullar med kikärtswok (8p)](dinners/meatballwook.md)
  * [Lammfärslasagne](dinners/lammfarslasagne.md)
  * [Lasagne](dinners/lasagne.md)
