@@ -182,6 +182,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Tortillas med rostad sötpotatis och kikärtor](wraps/sweetpotatoe-tortilla.md)
 
 ## Övrigt
+ * [Flädersaft](misc/flaeder.md)
  * [Kaffe](misc/coffee.md)
  * [Risgrynsgröt](misc/risgrynsgrot.md)
  * [Saft](misc/saft.md)
