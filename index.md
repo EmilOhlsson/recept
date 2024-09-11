@@ -17,6 +17,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Rödbetsbröd](bread/redbeet-bread.md)
  * [Scones](bread/scones.md)
  * [Surdegspizza](bread/sourdough-pizza.md)
+ * [Tekakor](bread/te-kakor.md)
 
 ## Efterrätter och sötsaker
  * [Chokladfondant](deserts/chocolate-fontant.md)
