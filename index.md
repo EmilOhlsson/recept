@@ -12,6 +12,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Lingongrova](bread/lingonberry.md)
  * [Lussebullar](bread/lussebullar.md)
  * [Pajdeg](bread/pie-dough.md)
+ * [Pizzabullar](bread/pizzabullar.md)
  * [Pizzadeg](bread/pizza-bottom.md)
  * [Rågbröd](bread/rye-bread.md)
  * [Rödbetsbröd](bread/redbeet-bread.md)
