@@ -1,6 +1,6 @@
 # Risgrynsgröt
 ```
-2 dl rist
+2 dl ris
 1 liter mjölk
 1 kanelstång
 salt
