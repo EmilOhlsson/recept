@@ -1,6 +1,7 @@
 # Emils receptsamling
 En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Barnmat
+ * [Amerikansk bananpannkaka](kids/amerikansk-bananpannkaka.md)
  * [Bananpannkaka](kids/bananpannkaka.md)
  * [Blomkålspinnar med ost](kids/blomkalspinnar.md)
 
@@ -34,6 +35,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Pink Acid](fermentation/pink-acid.md)
 
 ## Friluftsmat
+ * [Bolognese](openair/bolognese.md)
  * [Chai (4 koppar)](openair/chai.md)
  * [Club sandwich med baconmajonnäs](openair/club-sandwich.md)
  * [Inbakad korv med Ajvar (8p)](openair/wrapped-sausage.md)
@@ -61,6 +63,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Caponata med kikärtstopping(4port)](dinners/caponata.md)
  * [Champinjonfisk](dinners/champinjonfisk.md)
  * [Falska wallenbergare](dinners/falska-wallenbergare.md)
+ * [Fiskbullar](dinners/fiskbullar.md)
  * [Gottfärssås på gula ärtor](dinners/gottfarssås.md)
  * [Gryta med rödbetor och gula ärtor](dinners/rödbetsgryta.md)
  * [Kalops](dinners/kalops.md)
@@ -94,6 +97,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
  * [Sönddagsstek med gräddsås](dinners/söndagsstek.md)
  * [Tacopaj](dinners/taco-pie.md)
  * [Ugnsbakad kålrot](dinners/ugnsbakad-kalrot.md)
+ * [Ugnspannkaka](dinners/ugnspannkaka.md)
  * [Västerbottenpaj](dinners/västerbottenpaj.md)
  * [Zurek](dinners/zurek.md)
  * [Ärtburgare](dinners/pea-burgers.md)
@@ -104,9 +108,11 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 
 ## Pastarätter
  * [Arrabiata (4p)](pasta/arrabiata.md)
+ * [Carbonara](pasta/carbonara.md)
  * [Halloumi carbonara (4p)](pasta/halloumi-carbonara.md)
  * [Pasta i tomatsås](pasta/pasta-i-tomatsås.md)
  * [Pastadeg (1p)](pasta/pasta-dough.md)
+ * [Pastagratäng med köttfärs](pasta/pasta-gratäng.md)
 
 ## Picklat
  * [chiligurka](pickled/chili-cucumber.md)
@@ -149,6 +155,7 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
 ## Såser
  * [Citronsås](sauces/citronsauce.md)
  * [Gräddsås till vilt](sauces/gräddsås-till-vilt.md)
+ * [Hollandaisesås](sauces/hollandai.md)
  * [Miso-majonnäsdipp](sauces/miso-mayo.md)
  * [Ranchdressing](sauces/ranch.md)
  * [Senap](sauces/mustard.md)
