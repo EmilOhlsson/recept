@@ -1,0 +1,93 @@
+/* Recipe filtering styles using theme variables */
+
+.tag-button {
+  display: inline-block;
+  margin: 2px;
+  padding: 4px 8px;
+  background: $brand-color;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: $small-font-size * 0.75;
+  text-transform: lowercase;
+}
+
+.tag-button:hover {
+  background: darken($brand-color, 15%);
+}
+
+.tag-button.active {
+  background: #fd7e14;
+}
+
+.recipe-item.hidden {
+  display: none;
+}
+
+.recipe-list {
+  max-width: $content-width;
+}
+
+.recipe-item {
+  margin: 8px 0;
+  padding: 4px 0;
+  line-height: $base-line-height;
+  display: block;
+}
+
+.recipe-item a h1,
+.recipe-item a h2,
+.recipe-item a h3 {
+  display: inline;
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+.recipe-item a {
+  color: $brand-color;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.recipe-item a:hover {
+  text-decoration: underline;
+}
+
+.recipe-category {
+  color: $grey-color;
+  font-size: $small-font-size;
+  margin-left: 8px;
+}
+
+#tag-filter-container {
+  border: 1px solid $grey-color-light;
+  margin: $spacing-unit * 0.67 0;
+  padding: $spacing-unit * 0.5;
+  background: $code-background;
+  border-radius: 5px;
+}
+
+#tag-filter-container h3 {
+  margin-top: 0;
+}
+
+#tag-buttons {
+  margin: 10px 0;
+}
+
+.clear-filters-btn {
+  margin: 5px;
+  padding: 5px 10px;
+  background: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.clear-filters-btn:hover {
+  background: darken(#dc3545, 10%);
+}

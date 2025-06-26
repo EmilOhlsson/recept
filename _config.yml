@@ -1,1 +1,27 @@
-theme: jekyll-theme-tactile
+theme: minima
+
+# Site configuration for GitHub Pages
+title: "Emils receptsamling"
+description: "Mindre receptsamling"
+baseurl: "/recept"
+url: "https://emilohlsson.github.io"
+
+# Define collections for recipes
+collections:
+  recipes:
+    output: true
+
+# Exclude development files from site generation
+exclude:
+  - .sass-cache
+  - CLAUDE.md
+  - Gemfile*
+  - README.md
+  - jest.config.js
+  - jest.setup.js
+  - node_modules/
+  - package*.json
+  - scripts/
+  - vendor/
+
+# vim: set et ts=2 ss=2 sw=2 :

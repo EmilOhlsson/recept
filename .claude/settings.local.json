@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:jekyllrb.com)",
+      "Bash(npm run:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)"
+    ],
+    "deny": []
+  }
+}

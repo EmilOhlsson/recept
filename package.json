@@ -1,0 +1,23 @@
+{
+  "name": "recept",
+  "version": "1.0.0",
+  "description": "Mindre receptsamling, mest för att det är smidigare såhär",
+  "main": "index.js",
+  "scripts": {
+    "screenshot": "node scripts/screenshot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilOhlsson/recept.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilOhlsson/recept/issues"
+  },
+  "homepage": "https://github.com/EmilOhlsson/recept#readme",
+  "devDependencies": {
+    "playwright": "^1.53.1"
+  }
+}
