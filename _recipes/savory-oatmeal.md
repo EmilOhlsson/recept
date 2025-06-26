@@ -19,7 +19,7 @@ Passande annat
 * Ärtor
 * Spenat
 
-# Gör så här
+## Gör så här
 * stek lök och tomatpuré
 * häll på havregryn och fräs lite
 * häll på vatten och riven ost

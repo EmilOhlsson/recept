@@ -17,7 +17,7 @@ title: Tomatkokta musslor
 salt, peppar, basilika
 ```
 
-## Gör så här:
+## Gör så här
 1. Rensa och borsta musslorna under rinnande kallt vatten. Kasta de som är
    trasiga och de som inte sluts när man knackar dem på diskbänken
 2. Halvera tomater, och finhacka lök

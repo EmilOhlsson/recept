@@ -34,7 +34,7 @@ Russin
 smält smör
 Sockerlag (0.5 dl sock + 0.5 dl vatten)
 ```
-## Gör så här:
+## Gör så här
 Saffransblandning
 * Lägg saffran i en skål och tillsätt kokande vatten och socker. Rör om och låt dra minst 20 minuter
 

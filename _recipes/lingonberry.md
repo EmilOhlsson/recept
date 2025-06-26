@@ -19,7 +19,7 @@ Ett bröd
 - 6dl filmjölk
 - 3dl lingonsylt
 
-#### Gör så här
+## Gör så här
 1. Sätt ugnen på 200 grader. Blanda alla ingredienser i en skål. Blanda filmjölk, sylt och sirap i en skål brevid
 1. Blanda ihop alla ingredienser. Häll degen i en avlång form, 1½ liter. Strö över grovt rågmjöl
 1. Grädda i mitten av ugnen ca 50 minuter.

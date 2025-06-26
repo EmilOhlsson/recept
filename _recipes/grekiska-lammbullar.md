@@ -36,7 +36,7 @@ skivad gurka
 färsk koriander
 ```
 
-## Gör så här:
+## Gör så här
 1. Rensa, ansa och strimla salladslöken. Skölj citron noggrant. Riv av skalet
    med zestjärn. Blanda färs salt, och peppar i en bunke. Tillsätt salladslök,
    citronskal, oregano och vatten. pressa i vitlöksklyftan.

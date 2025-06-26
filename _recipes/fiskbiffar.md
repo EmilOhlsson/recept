@@ -31,7 +31,7 @@ Spenat
 salt, peppar
 ```
 
-# Gör så här
+## Gör så här
 Fiskbiffar
 * Skär fisken i mindre bitar, grovhacka lax/röding
 * Mixa vit fisk i matberedare med salt och peppar.

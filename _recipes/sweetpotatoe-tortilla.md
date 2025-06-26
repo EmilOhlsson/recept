@@ -26,7 +26,7 @@ Salt
 Tortillabröd
 ```
 
-## Gör så här:
+## Gör så här
 Potatis och svamp
 1. Sätt ugnen på 250°
 2. Skala, tärna sötpotatis

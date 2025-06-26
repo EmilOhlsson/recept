@@ -43,7 +43,7 @@ Garnering och tillbehör
 limeklyftor
 ```
 
-## Gör så här:
+## Gör så här
 1. Ansa och finstrimla salladslöken. Kärna ur och finhacka chili. Vispa upp
    ägget med en gaffel i en bunke, tillsätt chili, panko, ingefära, salladslök
    och salt. pressa i vitlök. Blanda i färs, och forma till ca 20 bullar

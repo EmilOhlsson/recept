@@ -15,7 +15,7 @@ title: Kolbullar
 salt
 ```
 
-# Gör så här
+## Gör så här
 1. Blanda kallt vatten, salt och mjöl till en smet. Förvara ev. i en termos eller liknande (Inte någon du är rädd om)
 2. Tärna fläsk (och hacka lök)
 3. Stek fläsk och lök

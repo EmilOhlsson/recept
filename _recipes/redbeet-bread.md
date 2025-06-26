@@ -18,7 +18,7 @@ Blir två bröd
 2 dl svart tapenade
 1/2 dl pumpakärnor
 ```
-## Gör så här:
+## Gör så här
 1. Lös upp jästen i vattnet. Rör ner olja, salt och rivna rödbetor.
 
 2.Blanda i mjölet och arbeta degen i maskin eller för hand till en smidig deg.

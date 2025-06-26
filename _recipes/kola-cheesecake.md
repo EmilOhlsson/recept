@@ -30,7 +30,7 @@ Topping:
 1 st. dubbeldaim
 ```
 
-## Gör så här:
+## Gör så här
 Botten:
 1. Börja med att klä en springform 22 cm med löstagbar kant med bakplåtspapper
    (både botten och runtom kanten).
