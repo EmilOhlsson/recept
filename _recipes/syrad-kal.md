@@ -14,7 +14,7 @@ title: Syrad rödkål
 salt
 ```
 
-### Syrad kål
+## Gör så här
 1. Koka upp vatten, vinäger och honung till en lag.
 2. Lägg i den strimlade rödkålen i den varma lagen och låt dra under lock i 15 minuter
 3. Häll av och salta kålen

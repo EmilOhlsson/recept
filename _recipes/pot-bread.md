@@ -6,8 +6,6 @@ tags:
 title: Bröd i järngryta
 ---
 
-Bröd i järngryta
-================
 Baka i en järngryta på ca 5 liter
 
 Torra ingredienser
@@ -20,6 +18,7 @@ Blöta ingredienser
 * 4 dl kallt vatten
 * 1 tsk sirap/honung
 
+## Gör så här
 1. Blanda torra ingredienser i en bunke
 2. tillsätt och blanda blöta ingredienser
 3. Täck över och jäs 8-12 timmar
