@@ -38,12 +38,11 @@ En liten receptsamling, mest för att det ska gå snabbare på ICA
   <ul class="recipe-list">
     {% for recipe in sorted_recipes %}
       <li class="recipe-item" data-tags='{{ recipe.tags | jsonify }}'>
-        <a href="{{ recipe.url }}">{{ recipe.title | default: recipe.content | split: "
-" | first | remove: "###" | remove: "#" | strip }}</a>
+        <a href="{{ recipe.url | relative_url }}">{{ recipe.title | default: recipe.content | split: " " | first | remove: "###" | remove: "#" | strip }}</a>
       </li>
     {% endfor %}
   </ul>
 </div>
 
 
-<script src="/assets/js/recipe-filter.js"></script>
+<script src="{{ '/assets/js/recipe-filter.js' | relative_url }}"></script>
