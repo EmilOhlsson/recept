@@ -10,13 +10,18 @@
  * - Multiple filter support (AND logic - recipes must match all active tags)
  * - Real-time recipe count updates
  * - Robust error handling with retry mechanisms
- * - Fallback inline styling for tag buttons
+ * - CSS-only styling (no inline styles)
  *
  * DOM dependencies:
  * - #tag-data: JSON script element containing all available tags
  * - #tag-buttons: Container for dynamically generated filter buttons
  * - .recipe-item: Recipe list items with data-tags JSON attributes
  * - #recipe-content: Container for recipe count display
+ *
+ * CSS dependencies (defined in assets/css/style.scss):
+ * - .tag-button: Base styling for filter buttons
+ * - .tag-button.active: Styling for active/selected filter buttons
+ * - #recipe-count: Styling for dynamically created recipe count display
  *
  * Global functions exposed:
  * - clearFilters(): Removes all active filters
@@ -54,15 +59,6 @@ function createTagButtons() {
     const button = document.createElement('button');
     button.textContent = tag;
     button.className = 'tag-button';
-    // Add inline styles as fallback in case CSS doesn't load
-    button.style.margin = '2px';
-    button.style.padding = '4px 8px';
-    button.style.background = '#007bff';
-    button.style.color = 'white';
-    button.style.border = 'none';
-    button.style.borderRadius = '15px';
-    button.style.fontSize = '12px';
-    button.style.cursor = 'pointer';
     button.onclick = function() { toggleTag(tag); };
     tagButtonsContainer.appendChild(button);
   });
@@ -76,11 +72,9 @@ function toggleTag(tag) {
   if (activeFilters.has(tag)) {
     activeFilters.delete(tag);
     button.classList.remove('active');
-    button.style.background = '#007bff'; // Reset to original color
   } else {
     activeFilters.add(tag);
     button.classList.add('active');
-    button.style.background = '#fd7e14'; // Active color
   }
 
   filterRecipes();
@@ -130,9 +124,6 @@ function updateRecipeCount(visibleCount, totalCount) {
   if (!countDisplay) {
     countDisplay = document.createElement('div');
     countDisplay.id = 'recipe-count';
-    countDisplay.style.marginTop = '10px';
-    countDisplay.style.color = '#666';
-    countDisplay.style.fontSize = '0.9em';
     document.getElementById('recipe-content').insertBefore(countDisplay, document.querySelector('.recipe-list'));
   }
 

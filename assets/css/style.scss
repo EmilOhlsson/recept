@@ -2,3 +2,31 @@
 ---
 
 @import "minima";
+
+/* Recipe filtering styles - used by recipe-filter.js */
+
+.tag-button {
+  margin: 2px;
+  padding: 4px 8px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  font-size: 12px;
+  cursor: pointer;
+  
+  &.active {
+    background: #fd7e14;
+  }
+  
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+/* Recipe count display - dynamically created by recipe-filter.js */
+#recipe-count {
+  margin-top: 10px;
+  color: #666;
+  font-size: 0.9em;
+}
