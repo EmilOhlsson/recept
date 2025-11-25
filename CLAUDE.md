@@ -58,20 +58,21 @@ assets/
 
 ## Recipe Tagging System
 
-All recipes now include Jekyll front matter with comprehensive Swedish tags for filtering:
+All recipes include Jekyll front matter with Swedish tags for filtering. The following tags are currently in use:
 
 ### Tag Categories:
-- **Ingredients**: kött, fisk, vegetarisk, ost, pasta, potatis, morötter, etc.
-- **Cooking methods**: ugn, gryta, stekpanna, grill, kokt, etc.
-- **Cuisine types**: asiatiskt, italienskt, mexikanskt, traditionellt, etc.
-- **Dietary**: vegetarisk, vegansk, mjölkprodukter, etc.
-- **Meal types**: frukost, middag, efterrätt, tillbehör, etc.
+- **Ingredients**: kött, fisk, vegetarisk, ost, pasta, potatis, morötter, kyckling
+- **Cooking methods**: ugn, gryta, stekpanna
+- **Cuisine types**: asiatiskt, traditionellt
+- **Meal types**: tillbehör, efterrätt
+- **Product types**: bröd, sås
+- **Special attributes**: storkok, enkelt, torkat
 
 ### Front Matter Format:
 ```yaml
 ---
 title: "Recipe Name"
-tags: [kött, ugn, morötter, helgmat, traditionellt]
+tags: [kött, ugn, morötter, traditionellt]
 ---
 ```
 
