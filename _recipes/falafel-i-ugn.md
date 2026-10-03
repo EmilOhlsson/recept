@@ -11,7 +11,7 @@ title: Falafel i ugn
 
 ```
 2 burkar kikärter
-1 citron
+1 citron / 1 msk citronjuice
 1 knippa bladpersilja eller 2 msk torkad persilja
 1 ägg
 2 msk majsstärkelse (Maizena)
